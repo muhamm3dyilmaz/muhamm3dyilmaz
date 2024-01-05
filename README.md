@@ -6,7 +6,6 @@
   
 - 🔭 I’m currently working on **Asp.Net Core, Flutter and Postgre SQL**
   
-- 🌱 I’m currently learning **Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
