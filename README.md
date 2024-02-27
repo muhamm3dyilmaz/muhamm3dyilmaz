@@ -4,7 +4,7 @@
 
 - 🎓 I'm 4th grade Computer Engineering student at Kahramanmaras Sutcuimam University
   
-- 🔭 I’m currently working on **Asp.Net Core, Flutter and Postgre SQL**
+- 🔭 I’m currently working on **Asp.Net Core Web API, Flutter and Postgre SQL**
   
 
 <h3 align="left">Connect with me:</h3>
