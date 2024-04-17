@@ -1,7 +1,7 @@
-<img height=300 width=1000 src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif"/>
+<img height=400 width=1000 src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif"/>
 
 <h1 align="center">Hi 👋, I'm Muhammed Yilmaz</h1>
-<img align="right" alt="Coding"  width=200 src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/200w.gif?cid=6c09b952slv1y4r4hvtnhy2ipow31h1avg5r2ty7onr85f82&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
+<img align="right" alt="Coding"  width=200 height=150 src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
 - 🎓 I'm 4th grade Computer Engineering student at Kahramanmaras Sutcuimam University
   
