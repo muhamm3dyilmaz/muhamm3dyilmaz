@@ -5,7 +5,7 @@
 
 - 🎓 I'm 4th grade Computer Engineering student at Kahramanmaras Sutcuimam University
   
-- 👨‍💻 I’m able to develope with **Asp.Net Core Web API, Flutter and Postgre SQL**
+- 👨‍💻 I’m able to develop with **Asp.Net Core Web API, Flutter and Postgre SQL**
   
 - ⚡ I’m currently working on **React**
   
