@@ -1,4 +1,4 @@
-<img height=400 width=1000 src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif"/>
+<img height=500 width=1000 src="https://cdn.dribbble.com/users/1595839/screenshots/11610043/media/358c99a6635dd119977243b4e8701133.gif"/>
 
 <h1 align="center">Hi 👋, I'm Muhammed Yilmaz</h1>
 
